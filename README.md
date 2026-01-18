@@ -1,4 +1,4 @@
-# repo_2
+# Guess_Game.py
 Author - Vaibhav
 
 import random
