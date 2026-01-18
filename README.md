@@ -13,7 +13,7 @@ while True:
         if user_input == secret_no:
             print("You Guessed it correctly!")
             break
-        else:
+        else if 
             attempts -= 1
             print("Guess the Secret Number again" , attempts, "attempts left.")
 
